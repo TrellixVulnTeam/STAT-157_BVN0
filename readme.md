@@ -18,8 +18,16 @@
 
 ---
 
-2019/8/1-2019/8-07
+2019/8/1-2019/8/7
 
 - 更新[STAT157-L5](http://alephn.xin/2019/08/01/STAT157-L5/)
 
 花了很久才更新，因为这周开始放暑假了，差不多悠闲地度过了八月的第一周，接下来要好好学习了，嗯！
+
+---
+
+2019/8/8-2019/8/9
+
+- 更新[STAT157 L6-L7](http://alephn.xin/2019/08/08/STAT157-L6-L7/)
+- 完成[HW2](https://github.com/waxin/STAT-157/blob/master/HW/homework2.ipynb),[HW3](https://github.com/waxin/STAT-157/blob/master/HW/homework3.ipynb)
+
